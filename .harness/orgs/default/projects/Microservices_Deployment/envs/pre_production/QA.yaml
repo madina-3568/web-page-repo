@@ -1,0 +1,8 @@
+environment:
+  name: QA
+  identifier: QA
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: default
+  projectIdentifier: Microservices_Deployment
