@@ -1,0 +1,8 @@
+environment:
+  name: DEV
+  identifier: DEV
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: default
+  projectIdentifier: Microservices_Deployment
